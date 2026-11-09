@@ -1,0 +1,17 @@
+{
+  "name": "留予｜我的人生手冊",
+  "short_name": "留予",
+  "start_url": "./?source=pwa#app/home",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#244d40",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
